@@ -1,0 +1,67 @@
+20230922	14:50:30	8b030332-d2a6-4d77-b2e9-42381d17d234	TypeError: logEvents is not a constructor
+20230922	15:20:56	702be52a-581a-49b1-af57-bbe7ad6e7b9c	TypeError: logEvents is not a constructor
+20230922	15:22:02	d3cf971b-e35f-4c82-af69-59f9aaeeec6b	TypeError: logEvents is not a constructor
+20230922	18:56:26	a99f2144-0c95-4c98-ad63-32e89b67dcbd	TypeError: res.json is not a function
+20230922	18:57:06	2e5d4507-5628-4d2c-87a5-6d4ce5f55338	TypeError: res.json is not a function
+20230922	19:00:13	e7eebaab-19a1-4d57-adcc-ec3bf9572333	TypeError: res.json is not a function
+20230922	19:00:25	5b02abd4-9db0-4fc7-8a6d-ad0f29295aed	TypeError: res.json is not a function
+20230922	19:01:25	80db3b64-f712-4ca5-ac99-4b2ccd127cfd	TypeError: res.json is not a function
+20230922	19:01:50	a241bc01-104b-4d80-8350-8584d52309a9	TypeError: res.json is not a function
+20230922	19:01:53	3fe0773d-300d-4fc7-b9b6-cd795b6de7f4	TypeError: res.json is not a function
+20230922	19:01:53	fca33a5f-5ed1-4330-812f-6c3357f81713	TypeError: res.json is not a function
+20230922	19:01:53	23a29941-9372-46ad-bddb-24183cb35abc	TypeError: res.json is not a function
+20230922	19:01:54	dd071999-de9d-4d7a-9507-f106cfe05ac8	TypeError: res.json is not a function
+20230922	19:01:54	753d3cdd-a321-47c0-b427-8c5fced28c6b	TypeError: res.json is not a function
+20230922	19:01:54	ae893c27-b05d-423e-b99c-d00b327a5fe7	TypeError: res.json is not a function
+20230922	19:01:55	1de3bace-0af1-49d5-a3ab-e76b729a72fc	TypeError: res.json is not a function
+20230922	19:01:55	57fb19cd-c356-47de-bede-754d741ba800	TypeError: res.json is not a function
+20230922	19:01:55	b45eb423-c5ac-4568-8b0a-763b0a09145c	TypeError: res.json is not a function
+20230922	19:01:56	6df17510-7c21-4f08-a064-fa847ddc58cd	TypeError: res.json is not a function
+20230922	19:02:05	922a8ef5-2c1c-4518-8a8f-ab0f0d5074b6	TypeError: res.json is not a function
+20230922	19:02:49	f604e3d2-a922-441f-958f-f5f81ca4dae5	TypeError: res.json is not a function
+20230922	19:02:50	b60641e8-9787-4f61-8464-93390b33de9d	TypeError: res.json is not a function
+20230922	19:02:50	bbda7e46-514c-4314-a64b-c3ddfa6ad065	TypeError: res.json is not a function
+20230922	19:02:50	0531e26e-140d-484c-bf25-f5e1772b5b05	TypeError: res.json is not a function
+20230922	19:02:50	32389aa5-a00f-467c-b680-9c626003d9d7	TypeError: res.json is not a function
+20230922	19:02:53	641f8300-8c38-42ab-b4ee-327742d0e784	TypeError: res.json is not a function
+20230922	19:04:43	73525783-f524-4b2b-b9f4-63426d2cee88	TypeError: res.json is not a function
+20230922	19:07:16	215c55db-ae8d-4ad0-9800-19d5398efb9d	TypeError: res.json is not a function
+20230922	19:07:17	2322dc48-0e47-4958-9b58-7ebb79038fc3	TypeError: res.json is not a function
+20230922	19:07:18	34666f30-448a-438e-baaf-fd90aea0a8a5	TypeError: res.json is not a function
+20230922	19:07:45	563e6418-cdc9-4781-bf17-b21de181ded7	TypeError: res.json is not a function
+20230922	19:13:36	77aeb5e9-3b83-4720-926d-7f7ea46ea0c6	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:13:46	e5ca14bc-9516-49d8-9bf2-2ba5c36323d5	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:22	cc568747-3b8f-4354-875c-cc09f92ccc89	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:22	dd526408-de20-4d3b-af48-040ed11d5eb8	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:23	cff42de3-06ac-4db5-833b-59347a25b604	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:23	113b12f9-cc50-4c5c-bb70-026eb52a9b2f	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:23	5318a6d5-5686-41bb-9621-0865371ef858	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:23	795fcedb-8723-4661-b3cb-a487a50506ca	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:23	5804b6d7-0e00-41d2-bd88-6103ba9d1b91	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:23	0319a667-64eb-4f8b-8f7b-3d68a7d9af61	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:23	65ff8ed5-b5bd-442b-8f60-366d82b20c4e	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	19:14:33	8c94a1ea-51b0-485d-937e-537af52f7c46	TypeError: Cannot read properties of undefined (reading 'id')
+20230922	20:58:56	a497a195-a2cd-4715-a67f-9fffaaa19573	SyntaxError: Unexpected token - in JSON at position 0
+20230922	21:01:26	d2ca89d5-4172-4470-bf7a-4170d3da2b30	TypeError: data.setEmployees is not a function
+20231011	12:48:40	ef2e931e-6a8c-4f6e-8213-516a31b32876	Error: Not Allowed by CORS
+20231011	12:48:45	92b6a0c4-dcb4-4709-a09b-f99081adb1b9	Error: Not Allowed by CORS
+20231011	12:48:45	59162b60-4e28-442a-a8d5-583da889fc74	Error: Not Allowed by CORS
+20231011	12:49:19	3ad97754-99ca-4312-b412-abcdba3fe4f0	Error: Not Allowed by CORS
+20231011	12:50:48	852df505-e963-4e03-b302-e212a44efb85	Error: Not Allowed by CORS
+20231011	12:50:48	eb126694-4502-4c66-8ade-14ec842c1e6a	Error: Not Allowed by CORS
+20231011	12:56:34	a8ac18ff-3a8e-43c6-8e73-7596ef1739ad	Error: Not Allowed by CORS
+20231011	12:56:34	0737da63-e919-456a-84d4-80adeb525ed7	Error: Not Allowed by CORS
+20231011	12:58:50	3088bcdb-e4ba-4df8-94c4-c02a57ce123b	TypeError: res.header is not a function
+20231011	12:58:50	80012977-2679-493c-89a5-f2b7a52a29a7	TypeError: res.header is not a function
+20231011	13:00:04	4a4ca510-cc08-435d-9255-ea02263bb289	TypeError: res.header is not a function
+20231011	13:00:07	68d16632-cee9-4546-8753-676671af7b3a	TypeError: res.header is not a function
+20231011	13:00:25	5e88644b-d379-4335-ae1b-e46d5c32b4e1	TypeError: res.header is not a function
+20231011	13:03:30	cd4640d9-14b1-4805-a6ad-a35d20637e2a	Error: Not Allowed by CORS
+20231011	13:03:30	324c87d0-3314-4fc4-b7e7-8c93cca1e645	Error: Not Allowed by CORS
+20231012	16:33:31	072cd840-0857-4e54-b9a6-95da3ee4dd98	Error: Not Allowed by CORS
+20231012	16:42:21	7e61a622-e11c-4ded-8458-be99472fa836	Error: Not Allowed by CORS
+20231012	16:46:22	8415eb40-fee7-457a-ad40-8d095c7fbce6	Error: Not Allowed by CORS
+20231012	16:47:26	2072a355-4239-43ce-a8c4-cfdc1cf22e42	Error: Not Allowed by CORS
+20231012	16:56:56	9ef64617-7755-4a55-b58f-7619e0d1f9c7	Error: Not Allowed by CORS
+20231012	17:09:32	590e45fd-0036-4e93-b34b-ac875f54e988	Error: Not Allowed by CORS
+20231012	17:10:07	1378bcfc-52d6-469c-a0f9-e495dd4c019a	Error: Not Allowed by CORS
